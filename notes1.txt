@@ -1,2 +1,4 @@
 This is a test for checking git fetch and git pull.
-mote contents will be added
+more contents will be added
+
+I have added this contents for git fetch test.
