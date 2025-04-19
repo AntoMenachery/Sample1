@@ -2,3 +2,5 @@ This is a test for checking git fetch and git pull.
 more contents will be added
 
 I have added this contents for git fetch test.
+
+I have added this test only for git pull
